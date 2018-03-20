@@ -1,0 +1,30 @@
+{
+  "name": "vundler",
+  "version": "1.0.0",
+  "description": "vundler",
+  "main": "index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@git.createmania.net/node/vundler"
+  },
+  "author": "js.seth.h@gmail.com",
+  "private": true,
+  "dependencies": {
+    "coffeescript": "^2.1.1",
+    "colors": "^1.1.2",
+    "debounce": "^1.0.2",
+    "debug": "^2.6.8",
+    "ficent": "^2.3.0",
+    "filecopy": "^3.0.1",
+    "glob": "^7.1.2",
+    "less": "^2.7.2",
+    "lodash": "^4.17.4",
+    "mkdirp": "^0.5.1",
+    "moment": "^2.18.1",
+    "requires": "^1.0.2",
+    "uglify-js": "^3.0.25"
+  }
+}
